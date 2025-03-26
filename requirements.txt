@@ -1,0 +1,9 @@
+sqlite3
+re
+random
+pickle
+numpy
+scikit-learn
+streamlit
+assemblyai
+tempfile
